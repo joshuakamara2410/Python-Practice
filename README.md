@@ -11,6 +11,7 @@ I'm currently studying **T Level Software Development** and using this repo to t
 | File | What it does | Concepts used |
 |------|--------------|----------------|
 | `subscription_pricing.py` | Calculates a price based on age and subscription status | input, conditionals, f-strings |
+| `test_scoring.py` | Determines a persons grade based on their test score | input, conditionals, f-strings, constants |
 
 *(I'll add a new row here each time I upload a script)*
 
